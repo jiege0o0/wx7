@@ -1,0 +1,1 @@
+exports.app_key = "f708eebcec6b808b2d03715f6";//微量联盟后台的小程序列表页面获取到的APPKey
